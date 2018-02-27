@@ -1,0 +1,24 @@
+{
+  "words": [
+    {
+      "name": "home",
+      "ruName": "дом",
+      "id": 1
+    },
+    {
+      "name": "food",
+      "ruName": "еда",
+      "id": 2
+    },
+    {
+      "name": "car",
+      "ruName": "машина",
+      "id": 3
+    },
+    {
+      "name": "travel",
+      "ruName": "путешествие",
+      "id": 4
+    }
+  ]
+}
