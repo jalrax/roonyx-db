@@ -19,6 +19,91 @@
       "name": "travel",
       "ruName": "путешествие",
       "id": 4
+    }, {
+      "name": "table",
+      "ruName": "стол",
+      "id": 5
+    },
+    {
+      "name": "phone",
+      "ruName": "телефон",
+      "id": 6
+    },
+    {
+      "name": "pants",
+      "ruName": "штаны",
+      "id": 7
+    },
+    {
+      "name": "cold",
+      "ruName": "холод",
+      "id": 8
+    }, {
+      "name": "wall",
+      "ruName": "стена",
+      "id": 9
+    },
+    {
+      "name": "attic",
+      "ruName": "чердак",
+      "id": 10
+    },
+    {
+      "name": "clock",
+      "ruName": "часы",
+      "id": 11
+    },
+    {
+      "name": "wind",
+      "ruName": "ветер",
+      "id": 12
+    }, {
+      "name": "street",
+      "ruName": "улица",
+      "id": 13
+    },
+    {
+      "name": "window",
+      "ruName": "окно",
+      "id": 14
+    },
+    {
+      "name": "light",
+      "ruName": "свет",
+      "id": 15
+    },
+    {
+      "name": "door",
+      "ruName": "дверь",
+      "id": 16
+    },{
+      "name": "lamp",
+      "ruName": "лампа",
+      "id": 17
+    },
+    {
+      "name": "night",
+      "ruName": "ночь",
+      "id": 18
+    }, {
+      "name": "day",
+      "ruName": "день",
+      "id": 19
+    },
+    {
+      "name": "mouse",
+      "ruName": "мышь",
+      "id": 20
+    },
+    {
+      "name": "bed",
+      "ruName": "кровать",
+      "id": 21
+    },
+    {
+      "name": "snow",
+      "ruName": "снег",
+      "id": 22
     }
   ]
 }
